@@ -1,4 +1,40 @@
-# Catatan Proyek Belajar Back‑End dengan JavaScript
+# 🚀 Belajar Back-End Pemula dengan JavaScript
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress-51%25-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Progres Belajar (Dicoding)
+Saat ini saya telah menyelesaikan materi hingga modul **Membangun Web Service menggunakan Node.js**.
+
+| Modul | Status | Progress |
+| :--- | :---: | :--- |
+| **Pendahuluan & Pengenalan Back-End** | ✅ | [██████████] 100% |
+| **Dasar-Dasar Node.js** | ✅ | [██████████] 100% |
+| **Membangun Web Service menggunakan Node.js** | 🚧 | [██████████] 97% |
+| **Deploy Web Services** | ⏳ | [░░░░░░░░░░] 0% |
+| **Total Keseluruhan** | 📈 | **51% Selesai** |
+
+---
+
+## 🛠️ Panduan Instalasi Node.js & NPM
+
+Sebelum menjalankan proyek, pastikan Node.js sudah terpasang di sistem kamu.
+
+### 🪟 Windows
+1. Unduh installer **LTS** dari [nodejs.org](https://nodejs.org/).
+2. Jalankan file `.msi` dan ikuti instruksi hingga selesai.
+3. Buka PowerShell/CMD, ketik `node -v` dan `npm -v` untuk verifikasi.
+
+### 🐧 Linux (Fedora/Ubuntu)
+* **Fedora:**
+  ```bash
+  sudo dnf install nodejs
 
 Repositori ini berisi dua aplikasi kecil yang saling berkomunikasi:
 
