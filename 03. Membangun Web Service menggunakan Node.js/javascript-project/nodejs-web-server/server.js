@@ -50,5 +50,7 @@ server.listen(port, host, () => {
 });
 
 
+console
+
 // curl -X POST -H "Content-Type: application/json" http://localhost:5000 -d "{\"name\": \"Dimas\"}"
-// output: <h1>Hai, Dimas!</h1>
+// output: akan <h1>Hai, Dimas!</h1>

@@ -4,7 +4,7 @@ import cors from 'cors';
 
 const app = express();
 const port = process.env.PORT || 5000;
-const host = process.env.NODE_ENV !== 'production' ? 'localhost' : '0.0.0.0';
+const host = process.env.NODE_ENV !== 'production' ? 'localhost' : '8.8.8.8';
 
 app.use(cors({
   origin: '*'
